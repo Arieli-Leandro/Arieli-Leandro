@@ -7,7 +7,8 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=tokyonight&cache_seconds=21600)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arieli-Leandro&show_icons=true&include_all_commits=true&rank_icon=github)
+
 
 
 
