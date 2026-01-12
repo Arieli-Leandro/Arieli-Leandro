@@ -8,11 +8,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arieli-Leandro&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arieli-Leandro&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arieli-Leandro&theme=onedark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arieli-Leandro&theme=nightowl)
 
 
 
