@@ -7,11 +7,8 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=tokyonight&cache_seconds=21600)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&layout=compact)
 
 
 
