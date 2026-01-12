@@ -7,7 +7,8 @@
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arieli-Leandro&limit=5&theme=dark&combine_all_yearly_contributions=true)
