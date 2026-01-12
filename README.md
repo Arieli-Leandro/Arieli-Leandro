@@ -8,9 +8,11 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arieli-Leandro&theme=github_dark) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arieli-Leandro&theme=github_dark) ![](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arieli-Leandro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arieli-Leandro&theme=github_dark) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arieli-Leandro&theme=github_dark)
 
 
 
