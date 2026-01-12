@@ -9,8 +9,11 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&layout=compact)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arieli-Leandro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
