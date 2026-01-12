@@ -8,12 +8,9 @@
 
 # 📊 GitHub Stats:
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=tokyonight"
-  alt="GitHub Stats"
-  referrerpolicy="no-referrer"
-/>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arieli-Leandro&theme=github_dark)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arieli-Leandro&theme=github_dark)
 
 
 
