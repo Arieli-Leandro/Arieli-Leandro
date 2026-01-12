@@ -7,9 +7,9 @@
 
 
 # 📊 GitHub Stats:
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arieli-Leandro&limit=5&theme=dark&combine_all_yearly_contributions=true)
