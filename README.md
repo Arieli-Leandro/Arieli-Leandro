@@ -7,7 +7,13 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arieli-Leandro&show_icons=true&include_all_commits=true&rank_icon=github)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+  referrerpolicy="no-referrer"
+/>
+
 
 
 
