@@ -8,6 +8,8 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arieli-Leandro&show_icons=true&theme=default&cache_seconds=86400)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&layout=compact)
 
