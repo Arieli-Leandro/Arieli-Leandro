@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋 Olá! Eu sou a Arieli<br><br>🎓 Estudante de Engenharia da Computação na UTFPR  <br>📚 Estou sempre em busca de aprender coisas novas e me desenvolver como profissional  <br>⭐ Amo aprender novas linguagens de programação e explorar diferentes áreas da tecnologia  <br><br>🚀 Uso este GitHub para organizar meus estudos, projetos acadêmicos e acompanhar minha evolução.<br>
 
 # 💻 Tech Stack:
