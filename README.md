@@ -16,6 +16,3 @@
 # 🌟 Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arieli-Leandro&theme=nightowl&layout=compact)
 
-![Top Langs](https://raw.githubusercontent.com/username=Arieli-Leandro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Top Langs](https://raw.githubusercontent.com/username=Arieli-Leandro/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
